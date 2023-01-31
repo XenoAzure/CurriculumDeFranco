@@ -1,0 +1,56 @@
+*{
+    color: rgb(34, 158, 0);  
+  }
+  
+  p, span {
+      color:  rgb(37, 0, 201);
+      width: 300px;
+  }
+  
+  /**
+   Texto comentario de prueba, no sabia que armar documentos se iba a poner complicado
+  */
+  
+  h1 {
+      border: 3px solid red;
+      
+      margin-top: 5px;
+      margin-bottom: 30px;
+      margin-left: 12px;
+      margin-right: 12px;
+  
+      padding-top: 5px;
+      padding-bottom: 1px;
+      padding-left: 2px;
+      padding-right: 2px;
+  
+      font-weight: 300;
+      color: darkgoldenrod;
+  }
+  
+  section {
+      width: 300px;
+      border: 15px solid green;
+      padding: 50px;
+      margin: 20px;
+  }
+  
+  #parrafo1 {
+      color: lightpink;
+      font-size: medium;
+      font-weight: 300;
+      font-style: italic;
+      width: 200px;
+  }
+  
+  .clasemaster {
+  font-size: large;
+  font-weight: bold;
+  color: purple;
+  
+  }
+  
+  section h1 {
+      font-family: 'Roboto', sans-serif;
+  }
+  
